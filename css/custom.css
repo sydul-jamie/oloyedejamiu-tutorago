@@ -1225,6 +1225,14 @@ ul {
   padding-top: 10px;
 }
 
+a:hover {  
+    color:#ffffff; 
+}
+
+a{
+  color: #ffffff;
+  list-style: none;
+}
 
 @media only screen and (max-width: 500px) 
 {
